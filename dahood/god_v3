@@ -1,2 +1,4 @@
---// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3--// god v3
-game.ReplicatedStorage.MainEvent:FireServer('OneMoreTime')
+print('You Tought')
+while wait() do
+print('monki')
+end
